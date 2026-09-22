@@ -26,13 +26,17 @@ Pendant une partie en ligne, les coups, votre nom, votre portrait, votre classem
 
 Votre adversaire voit votre nom, votre portrait et votre classement. Vos amis voient en plus votre présence et peuvent regarder vos parties en ligne. Le classement mondial montre aux joueurs connectés le nom, le portrait et le classement des cent meilleurs. Choisissez un nom que vous acceptez de montrer ; vous pouvez le changer dans votre profil.
 
+### Bloquer et signaler
+
+Vous pouvez bloquer un joueur : la liste reste sur votre téléphone, et suit votre compte si vous en avez un ; le joueur bloqué n’en sait rien. Vous pouvez aussi le signaler : le signalement contient votre identifiant, le sien, son nom, le motif choisi, votre éventuel commentaire et le code de la partie. Seul le développeur le lit, pour agir.
+
 ### Ce que nous ne faisons pas
 
 Pas de publicité. Pas de statistiques d’usage ni de pistage. Pas de localisation, pas d’accès à vos contacts, photos ou micro. Nous ne vendons ni ne louons aucune donnée, et nous ne les partageons avec personne d’autre que le service qui les héberge.
 
 ### Où, et combien de temps
 
-Les données en ligne sont hébergées par Google Firebase (Google LLC), dont une partie en Europe. Les parties, invitations et annonces sont effacées dès qu’elles ne servent plus. Les données de votre compte sont gardées tant que vous le gardez ; le carnet conserve vos 200 dernières parties.
+Les données en ligne sont hébergées par Google Firebase (Google LLC), dont une partie en Europe. Les parties, invitations et annonces sont effacées dès qu’elles ne servent plus. Les signalements sont gardés le temps de les traiter. Les données de votre compte sont gardées tant que vous le gardez ; le carnet conserve vos 200 dernières parties.
 
 ### Vos droits
 
@@ -68,13 +72,17 @@ During an online game, the moves, your name, portrait, rating and the emojis you
 
 Your opponent sees your name, portrait and rating. Your friends also see your presence and can watch your online games. The world ranking shows signed-in players the name, portrait and rating of the top hundred. Choose a name you are happy to show; you can change it in your profile.
 
+### Blocking and reporting
+
+You can block a player: the list stays on your phone, and follows your account if you have one; the blocked player is not told. You can also report them: the report holds your identifier, theirs, their name, the reason you chose, any comment you add and the game code. Only the developer reads it, to act on it.
+
 ### What we do not do
 
 No ads. No usage statistics, no tracking. No location, no access to your contacts, photos or microphone. We do not sell or rent any data, and we share it with no one other than the service that hosts it.
 
 ### Where, and for how long
 
-Online data is hosted by Google Firebase (Google LLC), partly in Europe. Games, invitations and announcements are erased as soon as they are no longer needed. Your account data is kept as long as you keep the account; the record keeps your last 200 games.
+Online data is hosted by Google Firebase (Google LLC), partly in Europe. Games, invitations and announcements are erased as soon as they are no longer needed. Reports are kept for as long as it takes to handle them. Your account data is kept as long as you keep the account; the record keeps your last 200 games.
 
 ### Your rights
 
@@ -112,13 +120,17 @@ Taleb Mohamed Maouloud — I2d.contact@yahoo.com. If this policy changes, the ne
 
 يرى خصمك اسمك وصورتك وتصنيفك. ويرى أصدقاؤك أيضًا حضورك ويمكنهم مشاهدة مبارياتك عبر الإنترنت. ويعرض التصنيف العالمي للاعبين المسجّلين اسم أفضل مئة لاعب وصورهم وتصنيفهم. اختر اسمًا تقبل إظهاره؛ ويمكنك تغييره في ملفك.
 
+### الحظر والإبلاغ
+
+يمكنك حظر لاعب: تبقى القائمة على هاتفك، وتتبع حسابك إن كان لديك حساب؛ ولا يعلم اللاعب المحظور بذلك. ويمكنك أيضًا الإبلاغ عنه: يتضمّن البلاغ معرّفك ومعرّفه واسمه والسبب الذي اخترته وتعليقك إن وُجد ورمز المباراة. لا يقرؤه إلا المطوّر، ليتصرّف.
+
 ### ما لا نفعله
 
 لا إعلانات. لا إحصاءات استخدام ولا تتبّع. لا تحديد للموقع، ولا وصول إلى جهات اتصالك أو صورك أو الميكروفون. لا نبيع أي بيانات ولا نؤجّرها، ولا نشاركها مع أحد سوى الخدمة التي تستضيفها.
 
 ### أين، وإلى متى
 
-تستضيف البيانات على الإنترنت خدمة Google Firebase (شركة Google)، وجزء منها في أوروبا. تُمحى المباريات والدعوات والإعلانات حين لا تعود لازمة. وتُحفظ بيانات حسابك ما دمت تحتفظ به؛ ويحتفظ السجل بآخر 200 مباراة.
+تستضيف البيانات على الإنترنت خدمة Google Firebase (شركة Google)، وجزء منها في أوروبا. تُمحى المباريات والدعوات والإعلانات حين لا تعود لازمة. وتُحفظ البلاغات ريثما تُعالج. وتُحفظ بيانات حسابك ما دمت تحتفظ به؛ ويحتفظ السجل بآخر 200 مباراة.
 
 ### حقوقك
 
