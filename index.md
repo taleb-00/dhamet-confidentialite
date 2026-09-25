@@ -1,6 +1,6 @@
 # Dhamet — Politique de confidentialité
 
-*Version du 22/09/2026 · Privacy policy · سياسة الخصوصية*
+*Version du 25/09/2026 · Privacy policy · سياسة الخصوصية*
 
 [Français](#français) · [English](#english) · [العربية](#العربية)
 
@@ -12,19 +12,19 @@ Dhamet se joue sans compte et sans rien donner de vous. Si vous jouez en ligne o
 
 ### Sans compte
 
-Tout reste sur votre téléphone : vos réglages, le nom et le portrait que vous choisissez, votre carnet de parties, la partie en cours, les problèmes résolus. Rien n’en sort, sauf si vous jouez en ligne (voir plus bas). Pour jouer en ligne sans compte, l’app ouvre une session anonyme chez Firebase : un identifiant au hasard, qui ne dit rien de vous.
+Tout reste sur votre téléphone : vos réglages, le nom et le portrait que vous choisissez, votre carnet de parties, votre niveau, la partie en cours, les leçons et les problèmes résolus. Rien n’en sort, sauf si vous jouez en ligne (voir plus bas). Pour jouer en ligne sans compte, l’app ouvre une session anonyme chez Firebase : un identifiant au hasard, qui ne dit rien de vous.
 
 ### Avec un compte Google
 
-Vous vous connectez avec Google pour retrouver votre profil sur un autre appareil et avoir des amis. Google nous transmet votre nom, votre adresse e-mail et votre photo ; l’e-mail reste chez Firebase pour la connexion et n’est jamais affiché. Nous enregistrons, sous votre compte : votre nom, votre portrait, votre classement, le résumé de vos parties (date, plateau, adversaire, résultat, durée, prises ; et pour les parties en ligne, les coups, pour les revoir), votre liste d’amis et votre code ami.
+Vous vous connectez avec Google pour retrouver votre profil sur un autre appareil et avoir des amis. Google nous transmet votre nom, votre adresse e-mail et votre photo ; l’e-mail reste chez Firebase pour la connexion et n’est jamais affiché. Nous enregistrons, sous votre compte : votre nom, votre portrait, votre classement, votre niveau, le bilan de vos parties en ligne (nombre de parties, de victoires et de défaites), le résumé de vos parties (date, plateau, adversaire, résultat, durée, prises ; et pour les parties en ligne, les coups, pour les revoir), votre liste d’amis et votre code ami.
 
 ### Jouer en ligne
 
-Pendant une partie en ligne, les coups, votre nom, votre portrait, votre classement et les emojis envoyés transitent par les serveurs de Firebase. La partie est effacée quand elle se ferme. Une invitation est effacée dès qu’elle est acceptée, refusée ou retirée. En cherchant un adversaire inconnu, vous annoncez votre nom, votre portrait, votre classement et la partie voulue ; l’annonce est effacée dès que vous quittez la recherche. Avec un compte, vos amis voient si vous êtes en ligne, depuis quand vous ne l’êtes plus, et dans quelle partie vous jouez.
+Pendant une partie en ligne, les coups, votre nom, votre portrait, votre classement, les emojis et les messages écrits dans la discussion transitent par les serveurs de Firebase. Les amis qui regardent la partie voient aussi les messages. Les messages ne sont pas gardés : ils sont effacés avec la partie, quand elle se ferme. Une invitation est effacée dès qu’elle est acceptée, refusée ou retirée. En cherchant un adversaire inconnu, vous annoncez votre nom, votre portrait, votre classement et la partie voulue ; l’annonce est effacée dès que vous quittez la recherche. Avec un compte, vos amis voient si vous êtes en ligne, depuis quand vous ne l’êtes plus, et dans quelle partie vous jouez. En organisant un tournoi ou en vous y inscrivant, vous montrez votre nom, votre portrait et votre classement à ceux qui en ont le code ; le tournoi garde aussi les résultats de ses matchs. L’organisateur peut l’effacer à tout moment, et vous pouvez en retirer votre nom. Partager une partie crée une image sur votre téléphone : elle ne part que là où vous l’envoyez.
 
 ### Ce que les autres voient
 
-Votre adversaire voit votre nom, votre portrait et votre classement. Vos amis voient en plus votre présence et peuvent regarder vos parties en ligne. Le classement mondial montre aux joueurs connectés le nom, le portrait et le classement des cent meilleurs. Choisissez un nom que vous acceptez de montrer ; vous pouvez le changer dans votre profil.
+Votre adversaire voit votre nom, votre portrait, votre classement et les messages que vous lui écrivez. Avec un compte, tout joueur connecté qui touche votre nom (dans le classement, ses amis ou une partie) voit votre fiche : nom, portrait, classement, rang, niveau, et le nombre de vos parties en ligne, victoires et défaites. Vos amis voient en plus votre présence et peuvent regarder vos parties en ligne. Le classement mondial montre aux joueurs connectés le nom, le portrait et le classement des cent meilleurs. Choisissez un nom que vous acceptez de montrer ; vous pouvez le changer dans votre profil.
 
 ### Bloquer et signaler
 
@@ -58,19 +58,19 @@ Dhamet can be played without an account and without giving anything about yourse
 
 ### Without an account
 
-Everything stays on your phone: your settings, the name and portrait you choose, your record of games, the game in progress, the puzzles you solved. None of it leaves the phone, unless you play online (see below). To play online without an account, the app opens an anonymous Firebase session: a random identifier that says nothing about you.
+Everything stays on your phone: your settings, the name and portrait you choose, your game log, your level, the game in progress, the lessons and the puzzles you have solved. Nothing leaves it unless you play online (see below). To play online without an account, the app opens an anonymous Firebase session: a random identifier that says nothing about you.
 
 ### With a Google account
 
-You sign in with Google to find your profile on another device and to have friends. Google gives us your name, email address and photo; the email stays with Firebase for signing in and is never shown. Under your account we store: your name, your portrait, your rating, a summary of your games (date, board, opponent, result, length, captures; and for online games, the moves, so you can replay them), your friends list and your friend code.
+You sign in with Google to find your profile on another device and to have friends. Google gives us your name, email address and photo; the email stays with Firebase for signing in and is never shown. We store, under your account: your name, portrait, rating, level, your online record (number of games, wins and losses), a summary of your games (date, board, opponent, result, length, captures; and for online games, the moves, so you can replay them), your friend list and your friend code.
 
 ### Playing online
 
-During an online game, the moves, your name, portrait, rating and the emojis you send pass through Firebase servers. The game is erased when it closes. An invitation is erased as soon as it is accepted, declined or withdrawn. When you look for a stranger to play, you announce your name, portrait, rating and the game you want; the announcement is erased as soon as you leave the search. With an account, your friends see whether you are online, since when you are not, and which game you are playing.
+During an online game, the moves, your name, portrait, rating, the emojis and the messages written in the chat pass through Firebase servers. Friends watching the game also see the messages. Messages are not kept: they are erased with the game when it closes. An invitation is erased as soon as it is accepted, declined or withdrawn. When you look for a stranger to play, you announce your name, portrait, rating and the game you want; the announcement is erased as soon as you leave the search. With an account, your friends see whether you are online, since when you are not, and which game you are playing. When you organise or join a tournament, your name, portrait and rating are shown to those who have its code; the tournament also keeps its match results. The organiser can erase it at any time, and you can remove your name from it. Sharing a game creates an image on your phone: it only goes where you send it.
 
 ### What others see
 
-Your opponent sees your name, portrait and rating. Your friends also see your presence and can watch your online games. The world ranking shows signed-in players the name, portrait and rating of the top hundred. Choose a name you are happy to show; you can change it in your profile.
+Your opponent sees your name, portrait, rating and the messages you write to them. With an account, any signed-in player who taps your name (in the ranking, among their friends or in a game) sees your profile card: name, portrait, rating, rank, level, and the number of your online games, wins and losses. Your friends also see your presence and can watch your online games. The world ranking shows signed-in players the name, portrait and rating of the top hundred. Choose a name you are happy to show; you can change it in your profile.
 
 ### Blocking and reporting
 
@@ -106,19 +106,19 @@ Taleb Mohamed Maouloud — I2d.contact@yahoo.com. If this policy changes, the ne
 
 ### دون حساب
 
-يبقى كل شيء على هاتفك: إعداداتك، والاسم والصورة اللذان تختارهما، وسجل مبارياتك، والمباراة الجارية، والمسائل المحلولة. لا يخرج شيء منها إلا إذا لعبت عبر الإنترنت (انظر أدناه). للعب عبر الإنترنت دون حساب، يفتح التطبيق جلسة مجهولة لدى Firebase: معرّف عشوائي لا يدل عليك.
+يبقى كل شيء على هاتفك: إعداداتك، والاسم والصورة اللذان تختارهما، وسجل مبارياتك، ومستواك، والمباراة الجارية، والدروس والمسائل المحلولة. لا يخرج شيء منها إلا إذا لعبت عبر الإنترنت (انظر أدناه). للعب عبر الإنترنت دون حساب، يفتح التطبيق جلسة مجهولة لدى Firebase: معرّف عشوائي لا يدل عليك.
 
 ### مع حساب Google
 
-تسجّل الدخول بحساب Google لتجد ملفك على جهاز آخر ولتضيف أصدقاء. يرسل إلينا Google اسمك وبريدك الإلكتروني وصورتك؛ يبقى البريد لدى Firebase لتسجيل الدخول ولا يُعرض أبدًا. نحفظ تحت حسابك: اسمك وصورتك وتصنيفك وملخّص مبارياتك (التاريخ، الرقعة، الخصم، النتيجة، المدة، الأخذ؛ وللمباريات عبر الإنترنت، النقلات لمراجعتها)، وقائمة أصدقائك ورمز صداقتك.
+تسجّل الدخول بحساب Google لتجد ملفك على جهاز آخر ولتضيف أصدقاء. يرسل إلينا Google اسمك وبريدك الإلكتروني وصورتك؛ يبقى البريد لدى Firebase لتسجيل الدخول ولا يُعرض أبدًا. نحفظ تحت حسابك: اسمك وصورتك وتصنيفك ومستواك وحصيلة مبارياتك عبر الإنترنت (عدد المباريات والانتصارات والهزائم) وملخّص مبارياتك (التاريخ، الرقعة، الخصم، النتيجة، المدة، الأخذ؛ وللمباريات عبر الإنترنت، النقلات لمراجعتها)، وقائمة أصدقائك ورمز صداقتك.
 
 ### اللعب عبر الإنترنت
 
-أثناء المباراة عبر الإنترنت، تمرّ النقلات واسمك وصورتك وتصنيفك والرموز التعبيرية المرسلة عبر خوادم Firebase. تُمحى المباراة عند إغلاقها. وتُمحى الدعوة فور قبولها أو رفضها أو سحبها. عند البحث عن خصم مجهول، تعلن اسمك وصورتك وتصنيفك ونوع المباراة؛ ويُمحى الإعلان فور خروجك من البحث. مع حساب، يرى أصدقاؤك إن كنت متصلًا، ومنذ متى لم تعد كذلك، وفي أي مباراة تلعب.
+أثناء المباراة عبر الإنترنت، تمرّ النقلات واسمك وصورتك وتصنيفك والرموز التعبيرية والرسائل المكتوبة في الدردشة عبر خوادم Firebase. ويرى الأصدقاء الذين يشاهدون المباراة الرسائل أيضًا. لا تُحفظ الرسائل: تُمحى مع المباراة عند إغلاقها. وتُمحى الدعوة فور قبولها أو رفضها أو سحبها. عند البحث عن خصم مجهول، تعلن اسمك وصورتك وتصنيفك ونوع المباراة؛ ويُمحى الإعلان فور خروجك من البحث. مع حساب، يرى أصدقاؤك إن كنت متصلًا، ومنذ متى لم تعد كذلك، وفي أي مباراة تلعب. عند تنظيم بطولة أو التسجيل فيها، يظهر اسمك وصورتك وتصنيفك لمن يملك رمزها؛ وتحفظ البطولة أيضًا نتائج مبارياتها. يستطيع المنظّم محوها في أي وقت، ويمكنك سحب اسمك منها. مشاركة مباراة تُنشئ صورة على هاتفك: لا تذهب إلا حيث ترسلها.
 
 ### ما يراه الآخرون
 
-يرى خصمك اسمك وصورتك وتصنيفك. ويرى أصدقاؤك أيضًا حضورك ويمكنهم مشاهدة مبارياتك عبر الإنترنت. ويعرض التصنيف العالمي للاعبين المسجّلين اسم أفضل مئة لاعب وصورهم وتصنيفهم. اختر اسمًا تقبل إظهاره؛ ويمكنك تغييره في ملفك.
+يرى خصمك اسمك وصورتك وتصنيفك والرسائل التي تكتبها له. مع حساب، يرى كل لاعب مسجّل يلمس اسمك (في التصنيف أو بين أصدقائه أو في مباراة) بطاقتك: الاسم والصورة والتصنيف والترتيب والمستوى وعدد مبارياتك عبر الإنترنت وانتصاراتك وهزائمك. ويرى أصدقاؤك أيضًا حضورك ويمكنهم مشاهدة مبارياتك عبر الإنترنت. ويعرض التصنيف العالمي للاعبين المسجّلين اسم أفضل مئة لاعب وصورهم وتصنيفهم. اختر اسمًا تقبل إظهاره؛ ويمكنك تغييره في ملفك.
 
 ### الحظر والإبلاغ
 
