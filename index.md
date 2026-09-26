@@ -1,6 +1,6 @@
 # Dhamet — Politique de confidentialité
 
-*Version du 25/09/2026 · Privacy policy · سياسة الخصوصية*
+*Version du 26/09/2026 · Privacy policy · سياسة الخصوصية*
 
 [Français](#français) · [English](#english) · [العربية](#العربية)
 
@@ -29,6 +29,10 @@ Votre adversaire voit votre nom, votre portrait, votre classement et les message
 ### Bloquer et signaler
 
 Vous pouvez bloquer un joueur : la liste reste sur votre téléphone, et suit votre compte si vous en avez un ; le joueur bloqué n’en sait rien. Vous pouvez aussi le signaler : le signalement contient votre identifiant, le sien, son nom, le motif choisi, votre éventuel commentaire et le code de la partie. Seul le développeur le lit, pour agir.
+
+### Rapports de plantage
+
+Si l’app plante ou rencontre une erreur, un rapport technique part vers Firebase Crashlytics (Google) : l’erreur et l’endroit du code où elle s’est produite, le modèle du téléphone, la version du système et de l’app, et un identifiant d’installation tiré au hasard. Il ne contient ni votre nom, ni votre compte, ni vos parties, ni vos messages. Il ne sert qu’à corriger l’app, et Crashlytics l’efface au bout de 90 jours.
 
 ### Ce que nous ne faisons pas
 
@@ -75,6 +79,10 @@ Your opponent sees your name, portrait, rating and the messages you write to the
 ### Blocking and reporting
 
 You can block a player: the list stays on your phone, and follows your account if you have one; the blocked player is not told. You can also report them: the report holds your identifier, theirs, their name, the reason you chose, any comment you add and the game code. Only the developer reads it, to act on it.
+
+### Crash reports
+
+If the app crashes or hits an error, a technical report goes to Firebase Crashlytics (Google): the error and where in the code it happened, the phone model, the system and app versions, and a random installation identifier. It contains neither your name, nor your account, nor your games, nor your messages. It is used only to fix the app, and Crashlytics deletes it after 90 days.
 
 ### What we do not do
 
@@ -123,6 +131,10 @@ Taleb Mohamed Maouloud — I2d.contact@yahoo.com. If this policy changes, the ne
 ### الحظر والإبلاغ
 
 يمكنك حظر لاعب: تبقى القائمة على هاتفك، وتتبع حسابك إن كان لديك حساب؛ ولا يعلم اللاعب المحظور بذلك. ويمكنك أيضًا الإبلاغ عنه: يتضمّن البلاغ معرّفك ومعرّفه واسمه والسبب الذي اخترته وتعليقك إن وُجد ورمز المباراة. لا يقرؤه إلا المطوّر، ليتصرّف.
+
+### تقارير الأعطال
+
+إذا تعطّل التطبيق أو واجه خطأً، يُرسَل تقرير تقني إلى Firebase Crashlytics (Google): الخطأ والموضع الذي وقع فيه من الشيفرة، وطراز الهاتف، وإصدار النظام والتطبيق، ومعرّف تثبيت عشوائي. لا يحتوي على اسمك ولا حسابك ولا مبارياتك ولا رسائلك. لا يُستعمل إلا لإصلاح التطبيق، ويحذفه Crashlytics بعد 90 يومًا.
 
 ### ما لا نفعله
 
